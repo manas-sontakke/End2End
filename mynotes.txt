@@ -1,3 +1,1 @@
-## End to End Machine Learning Project
-
 Password for Database: 1234
