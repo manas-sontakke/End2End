@@ -8,7 +8,7 @@ joblib==1.5.3
 kiwisolver==1.4.7
 lightgbm==4.6.0
 matplotlib==3.9.4
--e git+https://github.com/manas-sontakke/End2End.git@3eb76d81685ba501acd4c4e31c919400c3afe92a#egg=mlproject
+-e git+https://github.com/manas-sontakke/End2End.git@1285cc755229bafa6383d40cddf8b5916cfe24eb#egg=mlproject
 mysql-connector-python==9.4.0
 numpy==2.0.2
 packaging==26.0
@@ -24,6 +24,7 @@ scikit-learn==1.6.1
 scipy==1.13.1
 seaborn==0.13.2
 six==1.17.0
+SQLAlchemy==2.0.47
 threadpoolctl==3.6.0
 typing_extensions==4.15.0
 tzdata==2025.3
